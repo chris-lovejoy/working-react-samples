@@ -30,9 +30,6 @@ const WalletPanel: React.FC<LayoutProps> = ( {chain, networkName, account} ) => 
   )
 }
 
-// {account && <p>Account: {account}</p>}
-// {etherBalance && <p>Balance: {formatEther(etherBalance)}</p>}
-
 
 function App() {
 
